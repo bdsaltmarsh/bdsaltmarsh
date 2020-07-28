@@ -1,0 +1,11 @@
++++
+headless = true
++++
+
+- [Contents]({{< relref "/docs/" >}})
+  - [Gold Ledger]({{< relref "/docs/gold_ledger" >}})
+  - [Player Characters]({{< relref "/docs/player_characters" >}})
+  - [Items]({{< relref "/docs/items" >}})
+  - [Places]({{< relref "/docs/places" >}})
+  - [NPCs]({{< relref "/docs/npcs" >}})
+- [Adventure Log]({{< relref "/posts" >}})
