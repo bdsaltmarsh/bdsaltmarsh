@@ -8,4 +8,5 @@ headless = true
   - [Items]({{< relref "/docs/items" >}})
   - [Places]({{< relref "/docs/places" >}})
   - [NPCs]({{< relref "/docs/npcs" >}})
+  - [Quest Log]({{< relref "/docs/quests" >}})
 - [Adventure Log]({{< relref "/posts" >}})
