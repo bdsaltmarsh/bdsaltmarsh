@@ -5,15 +5,22 @@ type: docs
 # Gold Ledger (as of 7/28/2020)
 
 ## Total Balance:
-- 5740gp 3sp
+- 19515gp 3sp
 ## Balance Breakdown:
 | Copper | Silver | Electrum | Gold | Platinum |
 | --- | --- | --- | --- | --- |
-| 2600 | 10343 | 0 | 3280 | 140 |
+| 2600 | 10343 | 0 | 12055 | 640 |
 
 ## In/Out Ledger
 | Amount | Date | Description |
 | --- | --- | --- |
+| - 350 gp | 8/12/2020 | Healing Potion Reagents | 
+| + 500 pp | 8/12/2020 | Payout from Mine Job |  
+| + 375 gp | 8/12/2020 | Selling Half Plate | 
+| - 700g | 8/12/2020 | Marinier's Armor |
+| + 9800gp | 8/12/2020 | Pay from Ingo |
+| - 300gp | 8/12/2020 | Bag of Holding for Telinax | 
+| - 50gp | 8/12/2020 | Search for Water Swim Token | 
 | + 200gp | 7/12/2020 | Ingo Boat Job Initial Payment |
 | - 150gp | 7/12/2020 | Spell Scrolls from Iaz Captain |
 | + 100gp | 7/12/2020 | Initial payment from Manistrat Copperlocks |
