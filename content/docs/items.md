@@ -7,7 +7,7 @@ type: docs
 ### Ship Rations:
 - 25 days of ship rations.
 ## Quest/Adventure Items
-### Alchemy Book
+### Alchemy Book (Beyond Skeltons)
 - Currently Held by Varanus
 ### Alchemy Powder
 - Page 42
@@ -16,9 +16,17 @@ type: docs
 - Currently held by Telinax
 ### Bag of Holding
 - Currently held by Brian.
+### Bag of Holding 2
+- Currently held by Telinax.
+- Has all of our group gold in it.
 ### Book of Herbs
-- Currently held by Varanus
+- Owned by Varanus
+- Lent to Elron
 ### Book of Gems
+- Currently held by Varanus
+### Book of Mathematics
+- Currently held by Varanus
+### Book of Smuggler Inns at Various Ports of Call
 - Currently held by Varanus
 ### Broom of Flying
 - Currently held by Elron
