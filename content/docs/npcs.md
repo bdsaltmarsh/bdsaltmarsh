@@ -1,6 +1,7 @@
 ---
 title: NPCs
 type: docs
+description: A listing of non-player characters from the BD Saltmarsh game.
 ---
 # NPC Notes
 ## Saltmarsh NPCs

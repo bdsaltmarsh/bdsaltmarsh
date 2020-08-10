@@ -1,6 +1,7 @@
 ---
 title: Gold Ledger
 type: docs
+description: A breakdown of gold transactions and total gold for the Salty Turtle Crew.
 ---
 # Gold Ledger (as of 7/28/2020)
 

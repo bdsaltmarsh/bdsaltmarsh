@@ -1,6 +1,7 @@
 ---
 title: The Salty Turtle
 type: docs
+description: The OG Salty Turtle.
 ---
 # The Salty Turtle
 ## Main Deck

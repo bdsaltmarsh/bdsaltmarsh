@@ -1,6 +1,7 @@
 ---
 title: Places
 type: docs
+description: Notes regarding the various towns and cities the Salty Turtle crew have been to.
 ---
 
 # Saltmarsh

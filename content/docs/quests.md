@@ -1,6 +1,7 @@
 ---
 title: Quests
 type: docs
+description: A listing of the quests the Salty Turtle crew have taken part of or have been offered.
 ---
 # Quests
 ## Document Retreaval

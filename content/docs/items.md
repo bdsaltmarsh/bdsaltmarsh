@@ -1,6 +1,7 @@
 ---
 title: Items
 type: docs
+description: An inventory of items obtained by the Salty Turtle crew throughout their adventuring.
 ---
 # Items of Note
 ## Boat Items
