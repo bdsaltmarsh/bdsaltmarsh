@@ -61,19 +61,25 @@ The group headed over to the Standing stones, with a brief pitstop at the Faithf
 ### The Bite
 After returning from the Island, Kholos was dead set on going over to where everyone has been warned to leave alone and investigate it.  Telinax was intensly wary of proceeding there, however the group voted for doing so.  Upon arriving, there were a ton of crabs in the area of four ruined houses.  The group started to investigate however Telinax was able to direct them to focus their efforts on a house that appeared to be in slightly better condition.  The group entered the house, proceeded to the root cellar and looked around.  Telinax and Kholos found a secret door which Kholos then kicked in.
 
-On the other side of the door was a pale man who had been waiting for them.  He was well spoken and started up a conversation with Kholos.  Telinax was worried about what this person was and started to make his way back to the stairs.  The creature attempting to alter Kholos' thoughts and Kholos immediately acted with violence.  The creature grappled and attacked Kholos, biting him and significantly hurting Kholos.  Telinax attemtped to reason with the creature, which they determined was a Vampire.
+On the other side of the door was a pale man who had been waiting for them.  He was well spoken and started up a conversation with Kholos.  Telinax was worried about what this person was and started to make his way back to the stairs.  The creature attempting to alter Kholos' thoughts and Kholos immediately acted with violence.  The creature grappled and attacked Kholos, biting him and significantly hurting Kholos.  Telinax attemtped to reason with the creature, which they determined was a Vampire.  The vampire let Kholos go and they had a chat...
 
 #### Xolek's Story
+Xolek was imprisoned in the room by a cleric of Tara'mygal'olf (the phoenix god).  He has been there for a long time -- long enough that the Cleric is likely dead by now.  He wants to be freed of his prison so you can continue to live his... undeath out and spread the great word of Darkness.  The vampire also stated that he was not involved with the disappearances that are occurring there, however he does know that people meet in his building, unknown that he is there, and he has information about those people.  He was willing to barter this information for such minor things as freeing him.  The group said they needed a few minutes to discuss this and stepped out of the cellar's hidden room, closed the door, and walked out of the house.
 
+The group decided not to take Xolek up on his offer, but rather they came up with an idea to watch for the people meeting there.
 
-## The Undead
-- Zolek
-  - Misunderstanding with a woman cleric (phoenix god)
+### The Watchers in the Water
+The crew brought the Salty Turtle out of port only to very quickly drop anchor off the coast from the Crabber's Cove.  They then spent several uneventful days in the bay.  On the bright side, Elron was able to focus on fishing and making options and Kholos was able to build up his cooking skills.  In an effort to look less conspicious, the group paid Jilar Crankleston 7gp to dock at her port and have her workers expand out Kholos' kitchen.  More watching continued and there was no sign of anyone walking up to the Crabber's cove.  A few days later, a runner came to let Telinax know that Captain Xendros was able to find some magical artifact to allow Telinax to be able to swim more effectively.  Telinax paid the 700gp and started to practice his swimming.  Eventually the work was completed and they set sail back for port -- having not seen anything.
 
-## Ingo the Drover
-A little island -- Abby Isle
-Build lighthouse there
-Problems on Abby Isle
-Skull Dunes
+### Rumor Mongoring, Part Duex
+The next day the Crew decided to head out to the Princess of the Bouncing Bounties in the evening to gather some more info about what's going on in town.  Upon entering, Kreb gave the group the stink eye.  Telinax started a conversation with a dock worker who had been watching the Salty Ghost.  They learned more about some of the general rumors in town -- Crabber's Cove, the Standing Stones, etc.  The dock worker mentioned that there is an area where people will jump off the cliff called the Leap.  This is typically done either for weddings or if people drown.  Kholos was super ready to go do that and Telinax offered to join him.
 
-2000gp for clearing out Abby Isle - Major Ursa
+The Dock Worker asked the group if they had seen Skeezix recently, as they hadn't see him in the bars at all recently.  Immediately Kholos left and went to check on Skeezix.  Skeezix was looking worse for wear going through alcohol withdrawl.  The two discussed about how Skeezix could have killed himself mulitple times and that he clearly had things to live for.  Kholos returned to the bar to let the group know that Skeezix is still in good health.
+
+### Many Messages
+The next morning the group made their way to Manistrat Copperlock's office in Saltmarsh.  On the way, they encountered a running who had been sent to find them from Manistrat.  The group met with Manistrat and discussed their findings.  Manistrat would like the group to go beyond the locked door, assuming they had a way they could unlock it.  Some discsusion was had, however the group could not proceed with that currently.  Manistrat gave the group 500 pp for the work that had been done thus far.
+
+On their way back from Manistrat's -- the same running around them again stating that Ingo the Drover would like to meet the Salty Turtle Crew.  They met with Ingo and he has a job for them on behalf of the king.  There is a small island -- Abby Isle, where they are attempting to build a lighthouse.  They would like the entire Isle explored and any threats eliminated.  There is an area on the Island known as the Skull Dunes.  They are willing to pay 2000 gp for doing this.
+
+## Next Session:
+The group is planning on going to Abby Isle to check out the work needing to be done there.
