@@ -1,6 +1,6 @@
 ---
 title: A Game of Plot Hooks [Rough Draft]
-description: Trying to make my first fucking post
+description: A summary of the session.
 date: 2020-08-09
 tags:
   - "Saltmarsh"
