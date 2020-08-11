@@ -4,6 +4,7 @@ param (
 )
 
 # Logic
+Set-Alias -Name hugo -Value "C:\data\hugo\bin\hugo.exe"
 
 # Remove Public Folder Contents
 Get-ChildItem $PSScriptRoot\Public | Remove-Item -Force -Recurse
